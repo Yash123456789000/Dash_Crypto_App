@@ -1,0 +1,10 @@
+export { default as Loader } from './Loader';
+export { default as Navbar } from './Navbar';
+export { default as Welcome } from './Welcome';
+export { default as Footer } from './Footer';
+export { default as Services } from './Services';
+export { default as Transactions } from './Transactions';
+export { default as Home } from './home';
+export { default as Exchange } from './Exchange';
+export { default as TransactionTable } from './TransactionTable';
+export { default as Tokens } from './Tokens';
