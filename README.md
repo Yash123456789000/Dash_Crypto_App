@@ -6,7 +6,7 @@ The DASH Crypto App is a decentralized application (dApp) that enables users to 
 
 ## Screenshots
 
-![App Screenshot](fontend/images/Screenshot_Dash.png)
+![Screenshot_Dash](https://github.com/user-attachments/assets/21103fd6-4f88-46e5-a626-9d7853171413)
 
 ![App Screenshot](fontend/images/Screenshot_services.png)
 ## Features
