@@ -17,7 +17,7 @@ The DASH Crypto App is a decentralized application (dApp) that enables users to 
 ![App Screenshot](https://github.com/Yash123456789000/Dash_Crypto_App/blob/main/Frontend/images/Screenshot_transaction.png?raw=true)
 - Responsive Design: A clean, responsive interface built with Tailwind CSS.
 - Smart Contracts: Solidity-based smart contracts for handling crypto transactions.
-![App Screenshot](https://github.com/Yash123456789000/Dash_Crypto_App/blob/main/Frontend/images/Screenshot_transaction.png?raw=true)
+![App Screenshot](https://github.com/Yash123456789000/Dash_Crypto_App/blob/main/Frontend/images/Screenshot%202024-08-18%20214721.png?raw=true)
 
 ## Installation
 
